@@ -1,5 +1,5 @@
 import React from "react"
-import { baseTheme, Box, Card, CardBody, Circle, Container, Divider, Grid, Heading, HStack, Stat, StatGroup, StatHelpText, StatLabel, StatNumber} from "@chakra-ui/react"
+import { Box, Card, CardBody, Circle, Container, Divider, Grid, Heading, HStack, Stat, StatGroup, StatHelpText, StatLabel, StatNumber} from "@chakra-ui/react"
 import Chart from "../Components/Chart"
 
 export default function App() {
